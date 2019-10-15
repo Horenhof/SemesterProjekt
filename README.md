@@ -13,6 +13,7 @@ Wichtige Punkte :
 
 Wiki auf Github ist nur in Public Repos verfügbar, das heißt, wenn das Projekt Private ist, kann man kein Wiki anlegen.
 aber es gibt eine andere Variante, nämlich das Datei Readme.md. in diesem Datei kann man auch eine Art von Dokumintation verfassen, wie ihr hier lest :) 
+https://help.github.com/en/articles/adding-or-editing-wiki-pages#adding-wiki-pages
 
 # .gitignore
 
